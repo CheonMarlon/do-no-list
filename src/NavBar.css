@@ -96,6 +96,9 @@
   box-shadow: 4px 4px #323232;
   resize: none;
 }
+/* contact-form input {
+  height: 40px;
+} */
 
 .contact-form button {
   --button_radius: 0.75em;
