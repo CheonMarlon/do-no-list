@@ -1,6 +1,6 @@
-# ToDoListButMean.app 🧨
+# Do-No-List Web 🧨
 
-A savage to-do list app that roasts you when you procrastinate.  
+A not so typicall to-do list site that roasts you when you procrastinate.  
 Built with React + Vite 
 
 ---
