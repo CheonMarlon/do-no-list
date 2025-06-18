@@ -1,16 +1,36 @@
-<<<<<<< HEAD
-# React + Vite
+# ToDoListButMean.app 🧨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A savage to-do list app that roasts you when you procrastinate.  
+Built with React + Vite 
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔥 Add tasks
+- 😈 Sends insulting notifications when tasks are overdue or on app load
+- 🎨 Stylish dark theme with background image
+- 📦 Persistent tasks via `localStorage`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# do-no-list
->>>>>>> 076ed72b7fa4871a7c4117c546ea3debdb5640b3
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [React-Toastify](https://fkhadra.github.io/react-toastify/)
+- [React-Modal](https://reactcommunity.org/react-modal/)
+- [Date-FNS](https://date-fns.org/)
+
+---
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/YourUsername/do-no-list.git
+cd do-no-list
+npm install
+npm run dev
