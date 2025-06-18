@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./Navbar.css";
+import "./NavBar.css";
 import { AiFillHome } from "react-icons/ai";
 import { FiBookOpen } from "react-icons/fi";
 import { FaUserAlt } from "react-icons/fa";
